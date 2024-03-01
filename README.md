@@ -59,7 +59,11 @@ To reproduce the results of this analysis, follow these steps:
 
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip install numpy
+   pip install panda
+   pip install matplotlib
+   pip install seaborn
+   pip install -U scikit-learn
    ```
 
 3. Run the Jupyter Notebook:
