@@ -1,6 +1,4 @@
 # ML_Prediction
-For a churn customer prediction analysis, your README file should provide a clear and informative overview of the project, including its purpose, methodology, and instructions for running the code. Here's an example of what the README content could look like:
-
 ---
 
 # Churn Customer Prediction Analysis
